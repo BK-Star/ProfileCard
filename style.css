@@ -1,7 +1,7 @@
 body{
     font-family: 'Helvetica', sans-serif;
     font-size: 17px;
-    background-color: #009688;
+    background-color: #e3e3e3;
     margin: 0;
     padding: 0;   
     overflow: hidden;
@@ -9,7 +9,7 @@ body{
 
 .card{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
-    background-color: #e3e3e3;
+    background-color: #f4f4f4;
     margin: 20px auto;
     padding: 0px;
     max-width: 350px;
@@ -29,7 +29,7 @@ body{
     position: relative;
     margin: 0;
     padding: 0;
-    border-bottom: 6px solid #e6e6e6;
+    border-bottom: 6px solid #f4f4f4;
     border-radius: 4px 4px 0 0;
 }
 
@@ -37,7 +37,7 @@ body{
     width: 150px;    
     height: 150px;
     border-radius: 200px;
-    border: 7px solid #e6e6e6;
+    border: 7px solid #f4f4f4;
     z-index: 2;    
     position: absolute;
     top: 50%;
